@@ -433,7 +433,7 @@ function Contact() {
       </div>
     </section>
   );
-}
+}s
 
 function SectionLabel({ label, center }) {
   return (
