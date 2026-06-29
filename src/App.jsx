@@ -245,7 +245,7 @@ function Hero() {
             style={{ background: "transparent", border: "1px solid rgba(232,237,245,0.2)", color: "#E8EDF5", padding: "12px 28px", borderRadius: 4, fontFamily: "'Inter', sans-serif", fontSize: 14, textDecoration: "none" }}>
             GitHub ↗
           </a>
-          <a href="https://linkedin.com/in/syed-adil-bukhari" target="_blank" rel="noreferrer"
+          <a href="https://www.linkedin.com/in/syed-adil-bukhari-a988142b7" target="_blank" rel="noreferrer"
             style={{ background: "transparent", border: "1px solid rgba(232,237,245,0.2)", color: "#E8EDF5", padding: "12px 28px", borderRadius: 4, fontFamily: "'Inter', sans-serif", fontSize: 14, textDecoration: "none" }}>
             LinkedIn ↗
           </a>
