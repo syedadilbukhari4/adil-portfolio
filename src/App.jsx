@@ -422,7 +422,7 @@ function Contact() {
         <div style={{ display: "flex", justifyContent: "center", gap: 24, flexWrap: "wrap" }}>
           {[
             ["GitHub", "https://github.com/syedadilbukhari4"],
-            ["LinkedIn", "https://linkedin.com/in/syed-adil-bukhari"],
+            ["LinkedIn", "https://www.linkedin.com/in/syed-adil-bukhari-a988142b7/"],
           ].map(([label, href]) => (
             <a key={label} href={href} target="_blank" rel="noreferrer"
               style={{ fontFamily: "'Inter', sans-serif", fontSize: 14, color: "#8892A4", textDecoration: "none", border: "1px solid rgba(136,146,164,0.2)", padding: "8px 20px", borderRadius: 4 }}>
