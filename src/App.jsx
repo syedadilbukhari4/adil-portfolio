@@ -119,7 +119,7 @@ const EXPERIENCE = [
   {
     role: "Cloud & Security Training",
     org: "AWS Academy",
-    period: "2024",
+    period: "2026",
     type: "Certification",
     points: [
       "Hands-on with EC2, S3, IAM, and VPC configurations",
