@@ -344,7 +344,7 @@ export default function App() {
           <div className="hero-text">
             <h1 className="name">Syed Adil<br />Bukhari</h1>
           </div>
-          <img src="/adil.jpg" alt="Syed Adil Bukhari" className="photo" />
+          <img src="/Adil.jpeg" alt="Syed Adil Bukhari" className="photo" />
         </div>
 
         {/* Intro */}
