@@ -401,7 +401,7 @@ export default function App() {
 
         <div className="exp-card" style={{ borderColor: "#F59E0B33" }}>
           <div className="exp-role">Cloud & Security Training</div>
-          <div className="exp-meta">AWS Academy · 2024 · Lab-based</div>
+          <div className="exp-meta">AWS Academy · 2026 · Lab-based</div>
           <ul className="exp-points">
             <li>Hands-on lab work with EC2, S3, IAM, and VPC configurations.</li>
             <li>Covered network security fundamentals and cybersecurity best practices.</li>
